@@ -1,4 +1,4 @@
-# 🤖 LinkedIn to Gmail Job Auto-Applier
+# LinkedIn to Gmail Job Auto-Applier
 
 An automation tool that scrapes recent LinkedIn job posts, extracts recruiter email addresses, and sends personalized application emails with a resume attachment — all automatically.
 
@@ -6,7 +6,7 @@ Built by **Payal Kumkale** as part of a job application automation project.
 
 ---
 
-✨ What It Does
+ What It Does
 
 1. **Scrapes LinkedIn posts** — searches for keywords like `"Java Developer Contract"` posted in the last 24 hours
 2. **Extracts recruiter emails** — finds email addresses directly from post text using regex
